@@ -5,7 +5,7 @@ from setuptools import setup
 setup(
     name='Oto',
     version='1.0.0',
-    url='https://github.com/xethorn/oto',
+    url='https://github.com/micgeronimo/oto',
     author='Michael Ortali',
     author_email='github@xethorn.net',
     description=(
